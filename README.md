@@ -1,6 +1,6 @@
 # CS-250-Group
 
-###Members: <br />
+### Members: <br />
     Wyatt Mason <br />
     Mohamed Sulevani <br />
     Paul Nusser <br />
