@@ -1,7 +1,7 @@
 # CS-250-Group
 
-Members:
-    Wyatt Mason
-    Mohamed Sulevani
-    Paul Nusser
+###Members: <br />
+    Wyatt Mason <br />
+    Mohamed Sulevani <br />
+    Paul Nusser <br />
     Bryce Zimmerman
