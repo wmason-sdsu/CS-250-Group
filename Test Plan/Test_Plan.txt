@@ -1,23 +1,39 @@
 Movie Theater Ticketing System Test Plan
 
-Test Cases:
+Test Sets:
+- Database
+- User Interface
+- Admin Functionality
+- Payment
+- Ticket Distribution
 
-1.
 
-2.
+Test Cases Unordered Priority:
 
-3.
+1. Website is able to be accessed
 
-4.
+2. User is able to login
 
-5.
+3. On-site search function to find showtimes/theaters
 
-6.
+4. Database stores accurate data
 
-7.
+5. Database can be accessed through site to access movie or user data
 
-8.
+6. Payment page
 
-9.
+7. Seat Map working and showing correct data
 
-10.
+8. Location services
+
+9. Admin abilities. Change data being hosted on site
+
+10. Media support. Trailer videos, images.
+
+11. Test ability to get tickets in different formats. Printed, QR code, etc.
+
+12. Navigation between separate hosted pages
+
+13. Inhibiting specific tickets to be sold more than once. Not allow purchasing for full showtime.
+
+14. Site is being updated daily and correctly
