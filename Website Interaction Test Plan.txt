@@ -1,0 +1,50 @@
+﻿Website Interaction Test Plan
+
+
+Unit Test Plan
+Test Set 1: Unit Test for Movie Filtering
+* Targeted Feature: Movie Browsing
+* Test Objective: Verify that the movie filtering feature is working correctly
+* Test Scope: This test covers the filtering of movies based on their genre, rating, and release date.
+* Test Vectors: The test set will consist of five test cases:
+   1. Verify that filtering by genre is working correctly
+   2. Verify that filtering by rating is working correctly
+   3. Verify that filtering by release date is working correctly
+   4. Verify that filtering by theater is working correctly
+   5. Verify that filtering by multiple parameters is working correctly
+* Test Coverage: This test covers the movie selection feature in terms of filtering and selection of movies based on various parameters.
+Test Set 2: Unit Test for Movie Selection
+* Targeted Feature: Movie Browsing
+* Test Objective: Verify that the movie selection feature is working correctly
+* Test Scope: This test covers the selection of movies by the user based on their preference, and the confirmation of the selection.
+* Test Vectors: The test set will consist of five test cases:
+   1. Verify available movies to select from are shown
+   2. Verify that the user can select a movie by clicking on it
+   3. Verify that the user can access available times/theaters for selection
+   4. Verify the user can access movie info and trailer.
+   5. Verify that the user can advance to seat selection
+* Test Coverage: This test covers the movie selection feature in terms of user selection and accessible information to the user.
+Functional Test Plan
+Test Set 1: Functional Test for Seat Selection Map
+* Targeted Feature: Seat Selection Map
+* Test Objective: Verify that the seat selection feature is working correctly
+* Test Scope: This test covers the selection of seats by the user based on their preference, the availability of seats, and the confirmation of the selection.
+* Test Vectors: The test set will consist of five test cases:
+   1. Verify that the user can select a seat from the available seats for a particular movie
+   2. Verify that unavailable seats are off limits to the user
+   3. Verify that the seat availability status is updated correctly after the user has made a selection
+   4. Verify that the selected seat is blocked for a certain period of time, to avoid purchasing of the same seat
+   5. Verify that the user can advance to the payment area after confirmation of selection
+* Test Coverage: This test covers the seat selection feature in terms of user selection and confirmation of the selected seats.
+
+
+System Test Plan Targeted Feature: Payment
+Test Set 1: System Test for Payment feature
+* Test Objective: Verify that the payment feature is processing payments correctly
+* Test Scope: This test covers the payment process, from the purchase of tickets to the completion of the transaction.
+* Test Vectors: The test set will consist of four test cases:
+   1. Verify that the tickets in cart are set to process for purchase
+   2. Verify that the user can choose a payment method and enter the necessary details
+   3. Verify that the payment is processed correctly and a confirmation message is displayed
+   4. Verify that the tickets are emailed to the user after the transaction is completed
+* Test Coverage: This test covers the embedded payment feature and its ability to process payments of various types and distribute to the user their purchased tickets.
